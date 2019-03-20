@@ -76,6 +76,7 @@
   <text x="38" y="183.5" class="font s4" dominant-baseline="middle" text-anchor="end">with node_modules</text>
   <text x="38" y="187.5" class="font s4" dominant-baseline="middle" text-anchor="end">with lockfile</text>
   <text x="38" y="209" class="font s4" dominant-baseline="middle" text-anchor="end">with node_modules</text>
-  <text x="38" y="232.5" class="font s4" dominant-baseline="middle" text-anchor="end">updated dependencies</text>
+  <text x="38" y="230.5" class="font s4" dominant-baseline="middle" text-anchor="end">updated</text>
+  <text x="38" y="234.5" class="font s4" dominant-baseline="middle" text-anchor="end">dependencies</text>
   <text x="290" y="258.5" class="font s4 text" text-anchor="end">Tests were run using Node.js v10.15.3</text>
 </svg>
