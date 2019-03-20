@@ -8,7 +8,7 @@ const prettyMs = require('pretty-ms')
 const benchmark = require('./lib/recordBenchmark')
 const generateSvg = require('./lib/generateSvg')
 
-const LIMIT_RUNS = 3
+const LIMIT_RUNS = 2
 
 const fixtures = [
   {
