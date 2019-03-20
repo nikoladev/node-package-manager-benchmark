@@ -157,7 +157,7 @@ async function run () {
 function average (benchmarkResults) {
   const results = {}
   tests.forEach(test => {
-    results[test] = benchmarkResults.map(res => res[test]).reduce(sum, 0) / benchmarkResults.length
+    results[test] = benchmarkResults.map(res => res[test] || 0).reduce(sum, 0) / benchmarkResults.length
   })
   return results
 }

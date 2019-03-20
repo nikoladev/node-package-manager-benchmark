@@ -16,3 +16,5 @@
   withWarmModulesAndLockfile: 995
   withWarmModules: 2386
   size: 121143167
+# - firstInstall: 37295
+- updatedDependencies: 25388
